@@ -1,4 +1,5 @@
-nclude <iostream>
+#include <iostream>
+int main(){
 
 
 
@@ -6,4 +7,5 @@ nclude <iostream>
 
 
 
+};
 
